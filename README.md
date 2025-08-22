@@ -1,6 +1,8 @@
 # Laví: o melhor aplicativo para lavanderias!
 
-![Logo da Laví](./lavi_logo.png)
+<p align="center">
+  <img src="./lavi_logo.png" alt="Logo da Laví" width="50%"/>
+</p>
 
 ## Sobre o Projeto
 
